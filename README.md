@@ -3,7 +3,9 @@ Before running this project please ensure to create the mysql tables as below
 three tables are interconnected to eachother as
 
 (1 = One, M = Many)
+
 category (1 to M) subcategory
+
 subcategory (1 to M) product
 
 1) users table
